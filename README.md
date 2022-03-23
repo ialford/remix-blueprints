@@ -3,6 +3,8 @@ The "Infrastructure as Code" repo for all pieces or the Remix service. Will cont
 
 Note: It is highly recommended you use something like https://github.com/awslabs/git-secrets to prevent pushing AWS secrets to the repo
 
+Visit the Service Runbook: [Remix Service Runbook](https://github.com/ndlib/TechnologistsPlaybook/blob/master/run-books/remix.md)
+
 # Requirements
 Before you begin, check that you have the following:
   - A role with permissions to deploy cloudformations. In most cases, will require permissions to create IAM roles/policies (see [Permissions Required to Access IAM Resources](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_permissions-required.html))
